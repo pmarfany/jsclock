@@ -6,4 +6,4 @@ An online version of this project can be found [here](https://pmarfany.github.io
 
 ## Screenshot
 
-![Screenshot](thumbnail.jpg?raw=true "Screenshot")
+![Screenshot](thumbnail.png?raw=true "Screenshot")
