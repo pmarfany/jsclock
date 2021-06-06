@@ -1,13 +1,16 @@
 :root {
-  --clockBorder: #313131;
-  --clockBackground: #c7c7c7;
+  --background: #282c34;
+  --clockBorder: #000000;
+  --clockBackground: #ffffff;
   --numLineColor: #4a4a4a;
   --numTextColor: #4a4a4a;
 
   --hourHandBackground: #313131;
   --minuteHandBackground: #313131;
-  --secondHandBackground: #f44336;
+  --secondHandBackground: #0288d1;
 }
+
+body { background: var(--background); }
 
 .clock {
   position: absolute;
